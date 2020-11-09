@@ -1,0 +1,19 @@
+PERMISOS DE LECTURA, ESCRITURA Y EJECUCIÓN TANTO PARA USUARIOS COMO PARA GRUPOS Y OTROS, DE LAS CARPETAS.
+
+NIVELES DE PERMISOS
+
+PROPIETARIO: es aquel usuario que genera o crea un archivo/carpeta dentro de su directorio de trabajo sobre el que tenga derechos.
+GRUPO: cada usuario debe pertenecer a un grupo de trabajo. Formando así un grupo de varios usuarios.
+RESTO DE USUARIOS: los que pertenecen a un grupo. ni es el propietario.
+
+PERMISOS PARA DIRECTORIOS(CARPETAS)
+LECTURA:permite, visualizar el contenido del directorio.
+ESCRITURA:permite crear, eliminar archivos y directorios dentro de ese directorio.
+EJECUCIÓN: permite entrar al dorectorio.
+
+PERMISOS PARA ARCHIVOS
+
+LECTURA: permite, visualizar el contenido del archivo.
+ESCRITURA: permite modificar o borrar el contenido,puede modificarsse los permisos del archivo.
+
+
